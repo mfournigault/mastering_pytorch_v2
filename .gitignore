@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints/
+**/data/*
+**/data/*.gz
+/ch3/data/*
+/ch3/data/cifar-10-batches-py/*
+/ch3/data/*.gz
